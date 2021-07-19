@@ -1,0 +1,22 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "Atividade 07 da disciplina AS36D - 202101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgvilela/AS36D-202101-Atv07.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jgvilela/AS36D-202101-Atv07/issues"
+  },
+  "homepage": "https://github.com/jgvilela/AS36D-202101-Atv07#readme"
+}
